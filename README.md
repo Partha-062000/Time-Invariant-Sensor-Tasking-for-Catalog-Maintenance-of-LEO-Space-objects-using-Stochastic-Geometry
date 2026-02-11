@@ -1,2 +1,4 @@
 # Time-Invariant-Sensor-Tasking-for-Catalog-Maintenance-of-LEO-Space-objects-using-Stochastic-Geometry
+Catalog maintainance of space objects by limited number of ground-based sensors presents a formidable challenging task to the space community. This article presents a methodology for time-invariant tracking and surveillance of space objects in low Earth orbit (LEO) by optimally directing ground sensors. Our methodology aims to maximise the expected number of space objects from a set of ground stations by utilizing concepts from stochastic geometry, particularly the Poisson point process. We have provided a systematic framework to understand visibility patterns and enhance the efficiency of tracking multiple objects simultaneously. Our approach contributes to more informed decision-making in space operations, ultimately supporting efforts to maintain safety and sustainability in LEO. 
+
 This work has been previously presented in 35th AIAA-AAS SFM at Hawai. 
